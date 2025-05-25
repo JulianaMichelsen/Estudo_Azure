@@ -12,7 +12,7 @@ O **Language Studio** é uma plataforma da Microsoft que permite explorar e test
 
 ## Base de Conhecimento com Pares de Perguntas e Respostas
 
-O Azure permite criar uma base de conhecimento para **responder perguntas automaticamente**, utilizando o recurso de **QnA Maker** ou **Language Studio**.
+O Azure permite criar uma base de conhecimento para **responder perguntas automaticamente**, utilizando o recurso **Language Studio**.
 
 ### Formas de inserir perguntas e respostas:
 - **Manual**: Inserir perguntas e respostas diretamente na interface.
@@ -34,7 +34,7 @@ O **Azure Bot Service** é uma plataforma na nuvem para o desenvolvimento, impla
 
 ## Compreensão da Linguagem Coloquial
 
-A **compreensão de linguagem natural (LUIS)** permite que bots interpretem o que os usuários estão dizendo.
+A **compreensão de linguagem natural** permite que bots interpretem o que os usuários estão dizendo.
 
 ### Componentes principais:
 - **Enunciado (Utterance)**: A frase dita pelo usuário.
